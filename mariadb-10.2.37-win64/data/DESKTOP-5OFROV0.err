@@ -1,0 +1,25 @@
+2023-03-03 14:13:52 2076 [Warning] option 'innodb-buffer-pool-size': signed value 2097152 adjusted to 5242880
+2023-03-03 14:13:53 2076 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-03-03 14:13:53 2076 [Note] InnoDB: Uses event mutexes
+2023-03-03 14:13:53 2076 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-03-03 14:13:53 2076 [Note] InnoDB: Number of pools: 1
+2023-03-03 14:13:53 2076 [Note] InnoDB: Using generic crc32 instructions
+2023-03-03 14:13:53 2076 [Note] InnoDB: Initializing buffer pool, total size = 5M, instances = 1, chunk size = 5M
+2023-03-03 14:13:53 2076 [Note] InnoDB: Completed initialization of buffer pool
+2023-03-03 14:13:53 2076 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-03-03 14:13:53 2076 [Note] InnoDB: Starting crash recovery from checkpoint LSN=325378953
+2023-03-03 14:13:53 2076 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-03-03 14:13:53 2076 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-03-03 14:13:53 2076 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-03-03 14:13:53 2076 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-03-03 14:13:53 2076 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-03-03 14:13:53 2076 [Note] InnoDB: Waiting for purge to start
+2023-03-03 14:13:53 2076 [Note] InnoDB: 5.7.33 started; log sequence number 325378962
+2023-03-03 14:13:53 15076 [Note] InnoDB: Loading buffer pool(s) from C:\stack_database_mariadb\mariadb-10.2.37-win64\data\ib_buffer_pool
+2023-03-03 14:13:53 2076 [Note] Plugin 'FEEDBACK' is disabled.
+2023-03-03 14:13:53 2076 [Note] Server socket created on IP: '::'.
+2023-03-03 14:13:53 15076 [Note] InnoDB: Buffer pool(s) load completed at 230303 14:13:53
+2023-03-03 14:13:53 2076 [Note] Reading of all Master_info entries succeeded
+2023-03-03 14:13:53 2076 [Note] Added new Master_info '' to hash table
+2023-03-03 14:13:53 2076 [Note] C:\stack_database_mariadb\mariadb-10.2.37-win64\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 8190  mariadb.org binary distribution
